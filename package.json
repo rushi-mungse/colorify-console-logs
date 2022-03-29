@@ -2,9 +2,11 @@
   "name": "colorify-consoles-log",
   "version": "1.0.0",
   "description": "console log in color",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
@@ -22,5 +24,8 @@
   "homepage": "https://github.com/rushi-mungse/colorify-console-logs#readme",
   "devDependencies": {
     "typescript": "^4.6.3"
-  }
+  },
+  "files": [
+    "lib/**/*"
+  ]
 }
