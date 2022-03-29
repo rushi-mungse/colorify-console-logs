@@ -16,6 +16,9 @@ function app() {
 app();
 ```
 
+output :
+![output](https://www.linkpicture.com/q/Screenshot-2022-03-29-at-10.43.27-AM.png)
+
 ## 🔗 Connect with me
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://rmmungse.infinityfreeapp.com)

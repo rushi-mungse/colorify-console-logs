@@ -8,6 +8,6 @@ export class Log {
   }
 
   static info(msg: string) {
-    console.log(`%c ${msg}`, "background:yellow");
+    console.log(`%c ${msg}`, "background:yellow,color:black");
   }
 }
