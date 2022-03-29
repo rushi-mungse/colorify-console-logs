@@ -1,0 +1,26 @@
+{
+  "name": "colorify-consoles-log",
+  "version": "1.0.0",
+  "description": "console log in color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushi-mungse/colorify-console-logs.git"
+  },
+  "keywords": [
+    "console logs in color",
+    "colorify consoles"
+  ],
+  "author": "Rushikesh Mungse <mungse.rushi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rushi-mungse/colorify-console-logs/issues"
+  },
+  "homepage": "https://github.com/rushi-mungse/colorify-console-logs#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
